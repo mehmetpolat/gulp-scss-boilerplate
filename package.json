@@ -1,6 +1,6 @@
 {
   "name": "bootstrap-gulp-scss-starter-template",
-  "version": "1.0",
+  "version": "1.0.0",
   "description": "a bootstrap boilerplate with sass, concatenation, minification, autoprefixer, sourcemaps, browser-sync, git and gulp task runner",
   "main": "gulpfile.js",
   "scripts": {
